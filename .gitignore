@@ -1,0 +1,8 @@
+
+# Environments
+.venv
+venv/
+venv.bak/
+
+# Authentication
+auth.json
